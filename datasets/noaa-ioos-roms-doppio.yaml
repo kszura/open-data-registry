@@ -37,6 +37,14 @@ License: |
 
   NOAA makes data openly available to ensure maximum use of our data, and to spur and encourage exploration and innovation throughout the industry. NOAA requests attribution for the use or dissemination of unaltered NOAA data. However, it is not permissible to state or imply endorsement by or affiliation with NOAA. If you modify NOAA data, you may not state or imply that it is original, unaltered NOAA data.
 
+Citation: |
+  <br /><br />
+  When citing this dataset in any research, reports, or applications, please use the full citations below:
+  <br />
+  Wilkin, J., J. Levin, A. Moore, H. Arango, A. López and E. Hunter. (2022). <i>A data-assimilative model reanalysis of the U.S. Mid Atlantic Bight and Gulf of Maine: Configuration and comparison to observations and global ocean models.</i> Progress in Oceanography, 209, 102919. Accessed ```[DATE]```. https://doi.org/10.1016/j.pocean.2022.102919
+  <br />
+  Wilkin, J., and J. Levin. (2022). <i>Outputs from a Regional Ocean Modeling System (ROMS) data assimilative reanalysis (version DopAnV3R3-ini2007) of ocean circulation in the Mid-Atlantic Bight and Gulf of Maine for 2007-2021.</i> SEANOE. Accessed ```[DATE]```. https://doi.org/10.17882/89673 
+  
 ManagedBy: |
   "[NOAA](http://www.noaa.gov/)"
 
